@@ -8,3 +8,5 @@ scores['suugaku']=99
 print(scores)
 del scores['suugaku']
 print(scores)
+total=sum(scores.values())
+print(total)
