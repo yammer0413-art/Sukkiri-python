@@ -1,0 +1,9 @@
+print('山村勇矢の年齢は・・・')
+age=20
+print(age)
+print('来年は・・・')
+age=age+1
+print(age)
+age=age+1
+print('再来年は・・・')
+print(age)
