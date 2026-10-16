@@ -6,3 +6,5 @@ scores['kokugo']=36
 print(scores)
 scores['suugaku']=99
 print(scores)
+del scores['suugaku']
+print(scores)
